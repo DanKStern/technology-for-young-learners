@@ -17,6 +17,17 @@ tags: [youth-curriculum]
 - Find a physical folder-inside-a-folder-inside-a-drawer at home and trace the path out loud.
 - Play "20 questions" style narrowing games (animal → has fur → is it a dog?).
 
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Nesting** — a group that contains smaller groups, which can themselves contain smaller groups still.
+- **Category** — a named kind of group that things get sorted into.
+- **Generation** — one layer of a family, such as parents or grandparents, all at the same distance from the child.
+- **Narrow down** — removing some of the remaining possibilities with each new piece of information.
+
+Held back for later: *path* (the written list of nested steps needed to reach one specific thing) and *classification* (a formal, agreed-on nesting system) — both arrive by name in [[Systems, Hierarchy & Nesting - C Grades 3-5]].
+
 ## Draft
 
 ### Folders in Folders

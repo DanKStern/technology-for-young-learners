@@ -20,6 +20,15 @@ tags: [youth-curriculum]
 - Turn a recipe card into a Markdown document — headings for sections, a numbered list for steps, bullets for ingredients — and connect the numbered steps back to the "how much does this message carry" idea.
 - Record a sentence in [[Voice Scope]] and play each frequency band alone, ranking which one carries the most of the actual words — the sound version of "what's lost in the short version."
 
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Context-switching** — the cost, in time or focus, of moving attention from one task to a different one and back.
+- **Markup** — a separate layer of instructions describing how to display content, which doesn't change the content itself.
+
+Held back for later: *bandwidth* (the range of a signal a channel can carry) and *encoding* (converting a message into a standardized code two sides agree on ahead of time) — both arrive by name in [[Information & Communication - D Grades 6-8]].
+
 ## Draft
 
 ### Reading Aloud and Doing Math at Once

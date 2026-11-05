@@ -17,6 +17,16 @@ tags: [youth-curriculum]
 - Compare a nested-boxes picture next to the file path next to the animal classification — same shape, three domains.
 - Organize a shared drawer or shelf at home with a labeled folder-like structure and navigate it out loud.
 
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Path** — the full list of nested locations needed to find one specific thing, written in order from widest to narrowest.
+- **Classification** — a formal system that sorts living things into nested groups, agreed on and used the same way by everyone.
+- **Level** — one step in a nested path or classification, narrower than the one above it and wider than the one below.
+
+Held back for later: *hierarchy* — the general name for this nested-narrowing pattern, used the same way whether it's describing files, animals, or code — arrives by name in [[Systems, Hierarchy & Nesting - D Grades 6-8]].
+
 ## Draft
 
 ### Finding the Path

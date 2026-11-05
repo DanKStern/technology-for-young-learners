@@ -17,6 +17,17 @@ tags: [youth-curriculum]
 - Two children share one toy by taking timed turns — name this as one way to "share" something between two users.
 - Build a simple instruction set for a sibling or stuffed animal to follow exactly as written.
 
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Instructions** — a set of steps, written or spoken, so someone else can follow them exactly.
+- **Condition** — the "if" part of a rule: the thing that has to be true for the rule to apply.
+- **If/then rule** — a statement with two parts: a condition, and what happens when that condition is true.
+- **Sharing by taking turns** — two users getting the same resource by trading off who has it, one at a time.
+
+Held back for later: *algorithm* (a named, repeatable set of steps) and *loop* (repeating a step without rewriting it) — both arrive by name in [[Computing & Logic - C Grades 3-5]]. This band names the rule and the turn-taking; the words for repeating and formalizing them come once she's used both enough times to want a shortcut.
+
 ## Draft
 
 ### Scrambled Instructions

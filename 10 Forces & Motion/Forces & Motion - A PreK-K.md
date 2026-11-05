@@ -15,7 +15,18 @@ tags: [youth-curriculum]
 - Drop things — a ball, a block, a feather — and watch what happens. Which falls faster? Does anything go up by itself?
 - Push a toy car across carpet, then across a smooth floor, then across sandpaper. Which goes farthest?
 - Race two balls down a ramp at the same time — one smooth, one covered in cloth.
-- Vocabulary stays at "push," "pull," "fast," "slow," "stop" — no "gravity" or "friction" yet.
+
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Push** — making something move away by pressing on it.
+- **Pull** — making something move closer by tugging on it.
+- **Fast** — covering more distance in the same amount of time.
+- **Slow** — covering less distance in the same amount of time.
+- **Stop** — no longer changing position.
+
+Held back for later: *gravity* (the pull that brings things down) and *friction* (the rubbing that slows things down) — both arrive by name in [[Forces & Motion - B Grades 1-2]]. This band names only what she can watch directly; the causes get their words once she's seen enough instances to want one.
 
 ## Draft
 

@@ -18,6 +18,22 @@ tags: [youth-curriculum]
 - Revisit the Band C ball-and-stick water model and extend it to a slightly bigger molecule (CO₂) to show the same building-block idea scales up.
 - Revisit the Band B radiometer demo from the energy side: the black vane absorbs light and converts it to heat, and that heat energy becomes the mechanical energy of spinning — a real, visible example of one form of energy converting into another, same principle as [[Forces & Motion - D Grades 6-8]]'s energy-conservation story.
 
+## Source Clippings
+- [[Crookes radiometer]] — the baseline Wikipedia summary, framed there explicitly as "a heat engine run by light energy."
+- [[Crookes Radiometer a Surprisingly Persistent Scientific Mystery]] — full theory history.
+- [[Crookes Radiometer Explained. Newest Theory! (4K)]] — same theories plus hands-on light/heat tests.
+
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Element** — one single kind of atom, with its own fixed properties.
+- **Periodic table** — a chart listing every known element, arranged so elements that behave alike sit near each other.
+- **Chemical energy** — energy stored in how atoms are bonded together, released when the bonds rearrange.
+- **Kinetic energy** — energy a thing has because it's moving.
+- **Mechanical energy** — energy involved in a physical object's motion or position.
+- **Energy conversion** — energy changing from one of these forms into another without any of it disappearing.
+
 ## Draft
 
 ### Reading the Periodic Table

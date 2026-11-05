@@ -17,6 +17,17 @@ tags: [youth-curriculum]
 - A toy box inside a closet inside a bedroom — notice "inside of inside of inside."
 - "Which one is bigger, which one goes inside which" guessing games.
 
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Inside** — fully surrounded by something else, with nothing of it sticking out.
+- **Group** — a set of things put together because they share something.
+- **Sort** — putting each thing into the group it matches.
+- **Bigger / smaller** — holding more or less space than something else.
+
+Held back for later: *nesting* (the pattern of inside-inside-inside, repeating) and *category* (a named kind of group) — both arrive by name in [[Systems, Hierarchy & Nesting - B Grades 1-2]]. This band names only what she can touch and see directly; the pattern gets its word once she's noticed it enough times to want one.
+
 ## Draft
 
 ### Nesting Cups

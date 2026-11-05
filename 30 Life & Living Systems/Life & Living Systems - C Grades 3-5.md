@@ -17,6 +17,17 @@ tags: [youth-curriculum]
 - Introduce a basic human body system (digestive or circulatory) as a "machine made of parts with jobs," echoing the plant-parts-and-jobs idea from Band B.
 - Explicitly name the parallel: "a cell is to your body what an atom is to water" — flag it, let the child sit with it.
 
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Cell** — one of the tiny building pieces a living thing is made of, invisible without magnification.
+- **Food chain** — a sequence of living things where each one is food for the next.
+- **Ecosystem** — a set of living things in one place, depending on each other to survive.
+- **Body system** — a group of parts working together inside a body toward one job, like breaking down food.
+
+Held back for later: *food web* (the fuller picture of dependencies a food chain is a simplified slice of) — arrives in [[Life & Living Systems - D Grades 6-8]]. This band draws a single line of who-eats-whom; the tangle of lines connecting to each other waits until she's seen enough single lines to want the bigger picture.
+
 ## Draft
 
 ### Looking at a Cell

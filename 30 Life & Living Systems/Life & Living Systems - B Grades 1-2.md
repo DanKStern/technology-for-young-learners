@@ -17,6 +17,18 @@ tags: [youth-curriculum]
 - Blindfolded taste/smell/touch guessing game to name and isolate each of the five senses. Materials: blindfold, lemon slice, cracker, cotton ball, pinecone, bell, glass to tap.
 - Compare a plant's "parts and jobs" (roots drink, leaves eat sunlight) to an animal's. Materials: a weed pulled up with roots intact (or a grocery-store bunch of radishes/green onions), a celery stalk with leaves, food coloring, a cup.
 
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Life cycle** — the ordered stages a living thing passes through, ending back where it started.
+- **Root** — the part that pulls water out of the ground.
+- **Stem** — the part that carries water from the roots up to the leaves.
+- **Leaf** — the flat, spread-out part that catches sunlight.
+- **Senses** — the five ways a body takes in information about the world: sight, hearing, smell, taste, touch.
+
+Held back for later: *cells* (the much smaller "parts with jobs" that roots, stems, and leaves are themselves built from) — arrives in [[Life & Living Systems - C Grades 3-5]]. This band names the parts she can see; the parts too small to see wait until she's ready to go smaller.
+
 ## Draft
 
 ### Watching Something Grow

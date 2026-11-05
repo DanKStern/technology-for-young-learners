@@ -17,6 +17,16 @@ tags: [youth-curriculum]
 - Care for a classroom pet or houseplant and name what it needs that a toy doesn't.
 - Go on a "look for living things" walk outside.
 
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Alive** — able to grow and needs things like water, food, or sunlight to keep going.
+- **Grow** — getting bigger or changing shape over days or weeks, on its own.
+- **Need** — something a thing must keep getting, or it stops living.
+
+Held back for later: *life cycle* (the named stages a living thing passes through as it grows) — arrives in [[Life & Living Systems - B Grades 1-2]]. This band only notices that living things change over time; the word for the pattern that change follows waits until she's watched one all the way through.
+
 ## Draft
 
 ### Alive or Not?

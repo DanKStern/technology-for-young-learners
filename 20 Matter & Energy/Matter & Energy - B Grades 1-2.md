@@ -22,6 +22,20 @@ tags: [youth-curriculum]
 - Watch a steady piano note make an even wiggle, then compare a few different keys across an octave — higher keys pack the wiggle tighter.
 - Hear three separate notes one at a time, then slide smoothly between pitches with a dial — notice how jumping between them is different from sliding.
 
+## Source Clippings
+- [[Radiometer Spin Theory and Kid Experiments]] — source for the light/heat-absorption activity above.
+
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Solid** — holds its own shape without help.
+- **Liquid** — takes the shape of whatever holds it and flows when tipped.
+- **Gas** — spreads out to fill the space around it and can't be held in an open hand.
+- **Vibration** — a fast back-and-forth shake, too quick to see as separate movements.
+
+This band's "jumping between notes" vs. "sliding between them" noticing doesn't get its own vocabulary here — that split belongs to a different strand entirely. The formal words for it (*discrete* and *continuous*, and their applied form, *digital* and *analog*) arrive in [[Information & Communication - D Grades 6-8]], not later in this one.
+
 ## Draft
 
 The radiometer demo itself is drafted over in [[Forces & Motion - B Grades 1-2]] — run it there. This file's angle is just the black-vs-white heat-absorption piece (the paper-in-the-sun comparison above): worth a sentence in the moment ("the black side is what's grabbing the heat"), not a separate sit-down lesson.

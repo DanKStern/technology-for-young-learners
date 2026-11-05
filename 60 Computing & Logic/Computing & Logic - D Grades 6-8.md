@@ -17,6 +17,13 @@ tags: [youth-curriculum]
 - Revisit Band B's "two kids share one toy by taking turns" and Band C's multitasking parent, and explicitly name both as early, informal versions of this band's two formal strategies.
 - Research (or watch a short video on) how old telephone systems carried many calls on one wire — the real-world case this whole strand traces back to.
 
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Time-division multiplexing** — sharing one resource among many users by giving each a fixed time slot, in turn.
+- **Frequency-division multiplexing** — sharing one resource among many users at the same time, separated by frequency instead of by turn.
+
 ## Draft
 
 ### Sharing a Marker by the Clock

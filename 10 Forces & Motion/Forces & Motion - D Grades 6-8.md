@@ -18,6 +18,20 @@ tags: [youth-curriculum]
 - Introduce momentum conceptually with a collision demo (two carts, one at rest).
 - Revisit the Band B radiometer demo and go through the real debate: Crookes' original "light pressure" theory (wrong — disproven by Schuster and Lebedev), the currently-accepted thermal transpiration theory (Reynolds, 1879), and a newer competing "transimpact"/electrostatic theory (Liu, Stanford) that explains some anomalies thermal transpiration can't. Good concrete lesson that even settled-seeming science can still be an open question 150 years later.
 
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Energy conservation** — the fact that energy changes form rather than disappearing when motion stops.
+- **Momentum** — motion that transfers between objects in a collision rather than vanishing.
+- **Thermal transpiration** — the currently accepted explanation for the radiometer's spin: gas molecules moving differently off a warm surface than a cool one.
+- **Radiation pressure** — the original explanation for the radiometer's spin, later disproven: light itself pushing directly on the vanes.
+
+## Source Clippings
+- [[Crookes radiometer]] — the baseline Wikipedia summary of the device and the accepted thermal-transpiration theory.
+- [[Crookes Radiometer a Surprisingly Persistent Scientific Mystery]] — full history of the competing theories, ending with Liu's transimpact theory.
+- [[Crookes Radiometer Explained. Newest Theory! (4K)]] — same theories, plus hands-on tests with flashlight/laser/UV light/cold/a Wimshurst generator.
+
 ## Draft
 
 ### Where Did the Energy Go?

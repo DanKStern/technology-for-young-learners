@@ -17,6 +17,17 @@ tags: [youth-curriculum]
 - Melt and refreeze ice again, but this time frame it as "the same molecules, just rearranged" — contrast with the baking-soda reaction, where new molecules formed.
 - Introduce hot/cold and simple insulators (why a mitten keeps a hand warm) as a first touch of energy transfer.
 
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Atom** — one of the tiny building pieces everything is made of, too small to see.
+- **Molecule** — a small group of atoms attached together.
+- **Physical change** — the same molecules, rearranged into a different form.
+- **Chemical change** — the atoms recombined into molecules that didn't exist before.
+
+Held back for later: *energy transfer* as its own named idea — the mitten activity above touches it without naming it yet, and it gets full treatment in [[Matter & Energy - D Grades 6-8]]. This band draws the line between rearranging and recombining; the word for heat moving from one thing to another waits until it can be traced start to finish.
+
 ## Draft
 
 ### Fizzing Proof

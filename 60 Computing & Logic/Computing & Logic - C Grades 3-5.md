@@ -17,6 +17,17 @@ tags: [youth-curriculum]
 - Watch a parent or older sibling "multitask" (stirring a pot while talking on the phone) and discuss whether they're really doing both at once or switching fast.
 - Simple block-coding exercise (Scratch or similar) using a loop and an if/then block together.
 
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Algorithm** — a named, repeatable set of steps that produces the same result every time it's followed.
+- **Loop** — an instruction to repeat a step a given number of times, without writing the step out each time.
+- **Debug** — finding and fixing the specific step that made an instruction set fail.
+- **Multitask** — switching between two or more activities fast enough that they appear to happen at the same time.
+
+Held back for later: *time-division multiplexing* and *frequency-division multiplexing* — the formal engineering names for sharing one resource among many users — both arrive by name in [[Computing & Logic - D Grades 6-8]]. This band names the repeatable procedure and the fast-switching illusion; the formal sharing strategies come once she's seen both well enough to want a precise name.
+
 ## Draft
 
 ### Writing a Real Algorithm

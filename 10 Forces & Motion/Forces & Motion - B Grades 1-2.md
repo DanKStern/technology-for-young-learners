@@ -15,8 +15,19 @@ tags: [youth-curriculum]
 - Drop the same ball from a low height and a high height — ask "what do you think will happen?" before each drop.
 - Compare the same toy car on sandpaper vs. a smooth board; name the difference "friction."
 - Try to slide a book across the table, then try again with the table wet — notice friction changes.
-- Introduce "gravity pulls things down" and "friction slows things that rub" as the first two named forces.
 - Shine a flashlight on a Crookes radiometer (the glass bulb with the spinning black-and-white vanes) and watch it spin — ask "what do you think is pushing it?" Move the light closer/farther and count spins in 10 seconds to connect brightness to speed. Try holding colored cellophane between the flashlight and the bulb and see which colors speed it up more. Cup your hands around the glass (no touching) to show it can even spin from body heat alone, no light needed. Hold it near a cold pack or briefly in the freezer and watch it reverse — a fun surprise. This is really the same "invisible force" idea as gravity and friction, just a new one: light and heat can push things too. The real explanation is still debated by physicists and gets revisited in [[Forces & Motion - D Grades 6-8]].
+
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Gravity** — the pull that brings an object toward the ground.
+- **Friction** — the resistance between two touching surfaces that slows their movement against each other.
+
+Held back for later: the radiometer's spin stays unnamed in this band — no word is given for what pushes it, since the mechanism is still debated among physicists and gets its real names (*thermal transpiration*, *radiation pressure*) in [[Forces & Motion - D Grades 6-8]]. The next words this strand formally names, *inclined plane* and *lever*, arrive in [[Forces & Motion - C Grades 3-5]].
+
+## Source Clippings
+- [[Radiometer Spin Theory and Kid Experiments]] — the flashlight/cold-pack/light-distance activities above come from here.
 
 ## Draft
 

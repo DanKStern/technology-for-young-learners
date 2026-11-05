@@ -15,7 +15,17 @@ tags: [youth-curriculum]
 - Time a ball's fall from several heights with a stopwatch; graph height vs. fall time.
 - Measure how far the same toy car coasts on three different surfaces; rank them by friction.
 - Build a ramp (inclined plane) and a lever from household objects; measure how much easier it is to lift a weight with each.
-- Introduce the analogy: friction slowing a moving object is related to electrical resistance slowing current — same shape of idea, different domain (flag for the child, don't force the physics yet).
+- Introduce the analogy: friction slowing a moving object is like [[Buddy Marcus]] explaining friction, and is "related to" electrical resistance slowing current — same shape of idea, different domain (flag for the child, don't force the physics yet).
+
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Inclined plane** — a sloped surface that lets a weight be lifted using less force applied over a longer distance.
+- **Lever** — a bar that pivots on a fixed point, trading force on one side for distance on the other.
+- **Resistance** — something that opposes a flow, introduced here only by analogy to friction; the same word later describes what slows an electric current.
+
+Held back for later: the formal ideas that friction is energy converted to heat, and that motion carries momentum that has to go somewhere in a collision, arrive in [[Forces & Motion - D Grades 6-8]].
 
 ## Draft
 
@@ -31,5 +41,5 @@ Coast the same toy car down the same ramp onto three different surfaces — tile
 
 Build a simple ramp out of a board and a lever out of a ruler balanced on a pencil, and use each to lift a weight that's hard to lift by hand alone. Does the ramp feel easier the longer and shallower it is? Does the lever feel easier the farther the weight sits from the pencil? The idea to land on, in the child's own words if possible: these tools don't make the work disappear — they trade less force for more distance to move the same weight.
 
-If there's a real story to tell here, this is the natural spot for it — a personal anecdote works better than an invented one. Close by naming the cross-domain echo explicitly: slowing motion by rubbing (friction) has the same shape as something slowing the flow of electricity (resistance) — different stuff moving, same idea of something resisting a flow. Don't force the physics of *why* yet; that's a flag planted for [[Forces & Motion - D Grades 6-8]] to pick up.
+If there's a real story to tell here — [[Buddy Marcus]]'s friction lesson is the kind of personal anecdote worth telling in this moment rather than inventing one — this is the natural spot for it. Close by naming the cross-domain echo explicitly: slowing motion by rubbing (friction) has the same shape as something slowing the flow of electricity (resistance) — different stuff moving, same idea of something resisting a flow. Don't force the physics of *why* yet; that's a flag planted for [[Forces & Motion - D Grades 6-8]] to pick up.
 

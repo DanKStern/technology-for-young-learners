@@ -17,6 +17,17 @@ tags: [youth-curriculum]
 - A simple call-and-response dance with ordered steps.
 - Unplugged "robot" game — give a grown-up step-by-step spoken directions to walk across the room.
 
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Step** — one single action in a sequence.
+- **Order** — the sequence steps happen in, one after another.
+- **At the same time** — two things happening together, neither one before the other.
+- **Directions** — spoken words that describe exactly what to do.
+
+Held back for later: *if/then rule* and *sharing by taking turns* — both arrive by name in [[Computing & Logic - B Grades 1-2]]. This band names only the raw experience of order and simultaneity; the formal rules for handling them come once she's felt enough of each to want a name for it.
+
 ## Draft
 
 ### Out of Order

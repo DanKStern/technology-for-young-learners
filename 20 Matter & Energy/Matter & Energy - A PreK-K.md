@@ -19,6 +19,20 @@ tags: [youth-curriculum]
 - Talk, sing, whisper, and shout into [[Voice Scope]] and watch a simple light bar climb and fall (green→yellow→red) with how loud she is; hum with fingers on her throat to feel the buzz the lights are showing.
 - Listen to a handful of very different sounds (a water drip, a single flute note, a buzzy triangle wave, a buzzier square wave) and guess what each one's picture will look like before seeing it — and the other way around, guess what a picture will sound like before hearing it.
 
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Melt** — changing from hard to runny when warmed.
+- **Boil** — bubbling and turning into steam when heated enough.
+- **Steam** — the floating mist that rises off very hot water.
+- **Mix** — combining two things so they spread evenly together.
+- **Loud** — reaching farther with more energy.
+- **Quiet** — reaching only a short way with less energy.
+- **Buzz** — moving back and forth too fast to see clearly.
+
+Held back for later: *solid*, *liquid*, and *gas* (the three "changes of clothes" ice, water, and steam are taking) and *vibration* (the word for the buzz) — all arrive by name in [[Matter & Energy - B Grades 1-2]]. This band names only what she can watch and feel directly; the categories get their words once she's seen enough instances to want one.
+
 ## Draft
 
 ### Ice, Water, Steam

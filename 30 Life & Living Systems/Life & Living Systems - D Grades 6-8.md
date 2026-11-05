@@ -17,6 +17,17 @@ tags: [youth-curriculum]
 - Model a food web (not just a chain) with string connecting multiple species, and show what happens when one node is removed.
 - Draw the explicit parallel: DNA is to a cell what a recipe or program is to a computer — both are step-by-step instructions stored for later use.
 
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Trait** — a characteristic passed down from parent to offspring.
+- **DNA** — the stored instructions inside a cell that determine its traits.
+- **Adaptation** — a trait that helps a living thing survive in a specific environment.
+- **Food web** — the full set of overlapping feeding connections among living things in an ecosystem, where each connection affects several others.
+- **Mutation** — a change in DNA's instructions, carried into the traits built from them.
+- **Evolution** — a population's traits shifting over generations as the ones that aid survival persist and the ones that don't fall away.
+
 ## Draft
 
 ### A Trait Through the Family
@@ -25,7 +36,7 @@ Pick one visible inherited trait — eye color, attached vs. unattached earlobes
 
 ### What Problem Does This Solve?
 
-Pick one concrete adaptation — polar bear fur, cactus spines, a cheetah's build — and ask the child to work out, before you explain, what problem it solves and why that problem matters where the animal lives. Push past the first answer ("fur keeps it warm") to the second-order one (why does an arctic animal need that more than a desert one?). This is evolution's core move stated without the word yet: traits that solve a real problem tend to stick around; traits that don't, don't.
+Pick one concrete adaptation — polar bear fur, cactus spines, a cheetah's build — and ask the child to work out, before you explain, what problem it solves and why that problem matters where the animal lives. Push past the first answer ("fur keeps it warm") to the second-order one (why does an arctic animal need that more than a desert one?). Name it directly: this is evolution — traits that solve a real problem tend to stick around across generations; traits that don't, don't.
 
 ### Pulling One Thread Out of the Web
 
@@ -33,5 +44,5 @@ Build a food web, not just a chain, with real species from one ecosystem connect
 
 ### The Instructions Inside Every Cell
 
-Name it directly: DNA is to a cell what a recipe is to a cake, or a program is to a computer — step-by-step instructions, stored, followed to build and run something. State this as an explicit echo of [[Computing & Logic - D Grades 6-8]]'s own instructions idea: both are a stored sequence of steps that produces a result when followed, just written in a completely different "language." Ask the child: "if DNA has typos sometimes, what do you think that might do to the result?" — a soft, honest opening into mutation without needing the word yet.
+Name it directly: DNA is to a cell what a recipe is to a cake, or a program is to a computer — step-by-step instructions, stored, followed to build and run something. State this as an explicit echo of [[Computing & Logic - D Grades 6-8]]'s own instructions idea: both are a stored sequence of steps that produces a result when followed, just written in a completely different "language." Ask the child: "if DNA has typos sometimes, what do you think that might do to the result?" Those typos are exactly what the word mutation means — a change in the instructions that changes what gets built.
 

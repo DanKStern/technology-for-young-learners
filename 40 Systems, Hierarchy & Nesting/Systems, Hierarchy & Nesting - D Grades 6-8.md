@@ -18,6 +18,18 @@ tags: [youth-curriculum]
 - Revisit [[Systems, Hierarchy & Nesting - A PreK-K]]'s nesting dolls as the very first version of this same idea.
 - Introduce SI prefixes (milli, kilo, mega, nano, giga...) as a nested naming system for scale itself — each step is another factor of 1000, the same "zoom in/zoom out" idea as the file-path and classification trees, just applied to numbers instead of folders or species.
 
+## Source Clippings
+- [[Power of Ten Prefixes and Significant Digits]] — the full SI prefix table (quetta to quecto) and scientific/engineering notation, source for the activity above.
+
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Hierarchy** — a nested-ordering pattern, narrow inside wide, that shows up the same way across different kinds of content.
+- **Inherit** — keeping everything a wider level already has, then adding something more specific on top.
+- **Module / package / function** — nested levels of a software project, each one holding the next: a project holds modules, a module holds functions.
+- **Prefix** (as in *kilo-*, *milli-*) — a fixed label added to a unit name that multiplies or divides it by a set factor, usually a power of a thousand.
+
 ## Draft
 
 ### Inside a Real Codebase

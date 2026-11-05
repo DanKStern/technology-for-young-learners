@@ -17,6 +17,17 @@ tags: [youth-curriculum]
 - Telephone/whisper-down-the-lane game — notice how a message can change as it passes along.
 - Identify who's the "sender" and who's the "receiver" in everyday situations (a text message, a wave hello).
 
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Sender** — the person or thing that starts a message on its way.
+- **Receiver** — the person or thing that gets a message and has to make sense of it.
+- **Code** — an agreed-on system that turns a message into a different form so it can be sent, which only works if both sides know it.
+- **Context** — the surrounding situation that tells you which meaning of a word or signal is the right one.
+
+Held back for later: *context-switching* (the cost of moving attention between two different things) and *markup* (a separate layer of instructions about how to display a message, on top of its words) — both arrive by name in [[Information & Communication - C Grades 3-5]].
+
 ## Draft
 
 ### Sender and Receiver

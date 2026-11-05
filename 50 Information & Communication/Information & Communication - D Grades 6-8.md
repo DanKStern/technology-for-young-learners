@@ -21,6 +21,18 @@ tags: [youth-curriculum]
 - Line Markdown, HTML, and LaTeX up side by side for the same short piece of content and ask what each is good for and why none of them replaces the other two.
 - Use [[Voice Scope]] to build a "telephone voice" by switching on only the middle bands, and find out how much of a voice can be thrown away while still being understood — the bandwidth a phone call actually needs.
 
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Bandwidth** — the range of frequencies (or amount of information) a channel is set up to carry.
+- **Encoding** — converting a message into a standardized code that both the sender and receiver agree on ahead of time.
+- **Tag** — a marked instruction in a markup language that must open and close, and must nest cleanly inside other tags without crossing.
+- **Discrete** — made of separate, countable steps, with gaps between one value and the next.
+- **Continuous** — able to take any value along a smooth range, with no gaps between possibilities.
+- **Digital** — represented as discrete values, like the 1s and 0s of binary.
+- **Analog** — represented as a continuously varying signal that mirrors the thing it stands for.
+
 ## Draft
 
 ### Why the Photo Takes Longer
@@ -30,6 +42,8 @@ Send a photo and a short text message over the same connection (or just compare 
 ### Turning Words Into Code
 
 Pick a short message and convert it to Morse code by hand, or to binary (a simple letter-to-number-to-binary lookup works fine), then have the child decode it back without seeing the original. Ask: "could I have picked a completely different code and had it work just as well, as long as we both agreed on it?" (Yes — the same sender/receiver-needs-the-same-code idea from [[Information & Communication - B Grades 1-2]]'s secret-code lesson, just with a real, standardized code instead of an invented one.)
+
+Binary is also a specific case of something bigger: it breaks a message into discrete steps — only a 1 or a 0, nothing in between — which is what makes it digital. That's a different kind of signal from the telephone line in [[Information & Communication - D Grades 6-8#How Much Voice Does a Telephone Need?|How Much Voice Does a Telephone Need?]] below, which carries a continuous, analog signal with no fixed steps at all.
 
 ### The Computer's Version of Switching Tasks
 
@@ -55,5 +69,5 @@ Lay Markdown, HTML, and LaTeX side by side for the same short piece of content �
 
 Start with a question: "a voice reaches from deep rumbles to high hisses — how much of that do you think a phone call actually sends?" Then test it. Record a sentence into [[Voice Scope]] and switch on only Person and Bird (roughly 300 to 3000 Hz). It instantly sounds like someone on an old phone line — because that's almost exactly the slice traditional telephone lines carried, about 300 to 3400 Hz, throwing the rest away. Ask whether it's still understandable (it is) and still recognizable as *their* voice (mostly).
 
-That slice is the call's bandwidth: the range of frequencies it uses. Engineers kept it narrow on purpose — the less of the frequency range each call takes up, the more calls can be packed side by side on one wire, which is exactly the setup for [[Information & Communication - D Grades 6-8#How Many Calls, One Wire?|How Many Calls, One Wire?]] and the frequency-splitting answer in [[Computing & Logic - D Grades 6-8#Two Tones, One Air|Two Tones, One Air]]. One more thing worth noticing: with Bear switched off, a deep voice still *sounds* deep. The lowest note of a voice is barely there in a phone call, and the listener's brain rebuilds it from the pattern of the higher bands — a reminder that the receiver is doing real work too, not just the wire. Connect it to [[Information & Communication - D Grades 6-8#Why the Photo Takes Longer|Why the Photo Takes Longer]]: a phone call is the opposite trade — instead of sending more information slowly, it sends less, chosen carefully, so more of it fits.
+That slice is the call's bandwidth: the range of frequencies it uses. Notice it's also analog the whole way — the voice stays a continuously varying signal from the microphone to the earpiece, never broken into discrete steps the way [[Information & Communication - D Grades 6-8#Turning Words Into Code|Morse code or binary]] is. Engineers kept it narrow on purpose — the less of the frequency range each call takes up, the more calls can be packed side by side on one wire, which is exactly the setup for [[Information & Communication - D Grades 6-8#How Many Calls, One Wire?|How Many Calls, One Wire?]] and the frequency-splitting answer in [[Computing & Logic - D Grades 6-8#Two Tones, One Air|Two Tones, One Air]]. One more thing worth noticing: with Bear switched off, a deep voice still *sounds* deep. The lowest note of a voice is barely there in a phone call, and the listener's brain rebuilds it from the pattern of the higher bands — a reminder that the receiver is doing real work too, not just the wire. Connect it to [[Information & Communication - D Grades 6-8#Why the Photo Takes Longer|Why the Photo Takes Longer]]: a phone call is the opposite trade — instead of sending more information slowly, it sends less, chosen carefully, so more of it fits.
 

@@ -17,6 +17,16 @@ tags: [youth-curriculum]
 - Charades — act out an idea with no words and see if someone else can guess it.
 - Notice a baby sibling or pet "telling" you something without talking (crying, barking, pointing).
 
+## Vocabulary
+
+Words this band uses, defined the way we'd describe them to someone who'd never seen them — what happens, not how it feels:
+
+- **Turn** — the period during which one person is the one talking or acting while others wait.
+- **Listen** — taking in what someone else is saying without talking at the same time.
+- **Guess** — picking an answer before being told whether it's right.
+
+Held back for later: *signal* (something that carries a message without words) and *message* (the information being sent) — both arrive by name in [[Information & Communication - B Grades 1-2]]. This band only notices that information can move between people without talking; the words for it come once she's collected enough examples to want one.
+
 ## Draft
 
 ### Taking Turns Talking
