@@ -15,7 +15,7 @@ tags: [youth-curriculum]
 - Time a ball's fall from several heights with a stopwatch; graph height vs. fall time.
 - Measure how far the same toy car coasts on three different surfaces; rank them by friction.
 - Build a ramp (inclined plane) and a lever from household objects; measure how much easier it is to lift a weight with each.
-- Introduce the analogy: friction slowing a moving object is like [[Buddy Marcus]] explaining friction, and is "related to" electrical resistance slowing current — same shape of idea, different domain (flag for the child, don't force the physics yet).
+- This idea can also be demonstrated by drinking water through straws of different diameters.   It's harder to drink through the narrow straw than the wider one. (We are flagging the idea of friction or resistance in different domains, but don't force the physics yet).
 
 ## Vocabulary
 
